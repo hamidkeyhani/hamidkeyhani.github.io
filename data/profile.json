@@ -1,0 +1,47 @@
+{
+    "name": "Hamid Keyhani",
+    "profilePictureUrl": "images/pictures/avatar.png",
+    "locales": {
+        "en": {
+            "credits": " ",
+            "role": "Android Engineer"
+        }
+    },
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Dubai, UAE",
+                    "valueShort": "Dubai, UAE"
+                }
+            }
+        },
+        {
+            "id": "email",
+            "value": "hamidkeyhani26@gmail.com",
+            "valueShort": "hamidkeyhani26@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:hamidkeyhani26@gmail.com",
+            "copy": true
+        },
+        {
+            "id": "github",
+            "value": "@hamidkeyhani",
+            "valueShort": "@hamidkeyhani",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/hamidkeyhani",
+            "copy": false
+        },
+        {
+            "id": "linkedin",
+            "value": "@hamidkeyhani",
+            "valueShort": "@hamidkeyhani",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://ae.linkedin.com/in/hamidkeyhani",
+            "copy": false
+        }
+    ]
+}

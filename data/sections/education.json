@@ -1,0 +1,33 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2016, "month": 9},
+                    "dateEnd": {"year": 2019, "month": 6},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": "#140f29",
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor's Degree in Computer Science",
+                            "description": "Acquired a solid foundation in computer science principles, software engineering, databases, algorithms, and data structures.",
+                            "province": "Semnan",
+                            "country": "Iran",
+                            "institution": "Semnan University",
+                            "tags": ["Software Engineering", "Algorithms", "Databases", "Data Structures"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

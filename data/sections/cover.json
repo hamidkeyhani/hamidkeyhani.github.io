@@ -1,0 +1,33 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email"],
+                "contact_circles_ids": ["linkedin", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "I am an experienced <strong>Android Developer</strong> with over <strong>8 years of experience</strong> specializing in building high-quality, robust mobile applications. I have deep expertise in **Kotlin**, **Java**, and the modern Android ecosystem, along with hands-on experience in full-stack web development using **Vue.js** and **PHP**."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I am passionate about creating clean, performant, and user-friendly mobile experiences while solving complex software architecture challenges. Let's connect and build something amazing!"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
